@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SUMrit25
-- 👀 I’m interested in app development,web-development
+- 👀 I’m interested in web-development,app development
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me https://www.linkedin.com/in/sumrit-gaba-52b07422a
 
